@@ -20,7 +20,7 @@ cdrtools
 
 This tool was designed to be used in Linux.
 
-First, edit the versioninfo.json file in the goDLL directory, if desired. You can add your own description, company/copyright info., etc.
+First, edit the versioninfo.template file in the goDLL directory, if desired. You can add your own description, company/copyright info., etc.
 
 Then, from the root directory of the repository, run:
 
