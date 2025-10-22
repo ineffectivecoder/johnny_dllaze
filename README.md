@@ -1,3 +1,7 @@
+> [!WARNING]
+> As of Go 1.25, the DLL no longer works as expected (the shellcode will NOT get executed). See the issue posted here: https://github.com/golang/go/issues/75949
+> If you still want to use this, you'll have to switch your Go version to 1.24.9 or older, e.g., with gvm (https://github.com/moovweb/gvm).
+
 # Johnny DLLaze, GOst Writer
 
 ![](johnny_dllaze.jpg)
